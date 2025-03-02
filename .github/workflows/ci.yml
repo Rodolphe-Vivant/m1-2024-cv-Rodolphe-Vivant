@@ -27,6 +27,8 @@ jobs:
 
       
       # Runs a single command using the runners shell
+
       - name: compile my workig latex CV
         run: pdflatex cv.tex
+
 
